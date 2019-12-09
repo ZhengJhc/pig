@@ -5,7 +5,7 @@ CREATE DATABASE  `pig` DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_bin;
 SET NAMES utf8;
 SET FOREIGN_KEY_CHECKS = 0;
 
-USE `pig`;
+USE `pig`  ;
 
 -- ----------------------------
 --  Table structure for `sys_dept`
